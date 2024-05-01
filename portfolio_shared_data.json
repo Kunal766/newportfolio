@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Kunal Nayak",
+      "titles": [ "Web Developer", "Frontend Engineer", "Backend lead" ],
       "social": [
         {
           "name": "github",
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-reactjs-plain",
           "level": "80"
         },
         {
