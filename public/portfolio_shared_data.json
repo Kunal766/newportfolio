@@ -53,12 +53,12 @@
         "level": "75"
       },
       {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
+        "name": "ExpressJs",
+        "class": "devicon-express-original",
         "level": "85"
       },
       {
-        "name": "C#",
+        "name": "PHP",
         "class": "devicon-php-plain",
         "level": "65"
       },
