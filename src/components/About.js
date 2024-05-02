@@ -40,7 +40,7 @@ class About extends Component {
                   />
                   <Icon
                     icon={express}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "100%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
