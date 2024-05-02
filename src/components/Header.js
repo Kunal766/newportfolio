@@ -36,8 +36,29 @@ class Header extends Component {
 
     return (
       <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
+        <a href="resume.pdf" download="KunalNayak_Resume.pdf" style={{
+          position: "absolute",
+          top: "2em",
+          right: "2em",
+          display: "inline",
+          background: "#1F1F1F",
+          color: "white",
+          padding: "5px 15px",
+          "border-radius": "2em",
+        }}>Download Resume</a>
+
+        <a href="mailto:kunalmayak20@iitk.ac.in" style={{
+          position: "absolute",
+          top: "2em",
+          left: "2em",
+          display: "inline",
+          background: "#1F1F1F",
+          color: "white",
+          padding: "5px 15px",
+          "border-radius": "2em",
+        }}>Contact Me</a>
+
         <div className="row aligner" style={{ height: '100%' }}>
-          <div>Kunal</div>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
