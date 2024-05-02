@@ -100,18 +100,22 @@
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Algoleg",
+      "title": "FullStack Internship",
+      "years": "May’24 - Present ",
       "mainTech": [
-        "Angular 7/8"
+        "React"
       ],
       "technologies": [
+        "REST API",
         "RxJS",
-        "Django",
-        "PHP",
         "JavaScript",
-        "DHTMLX Gantt"
+        "Stripe",
+        "MDBootstrap",
+        "NodeJS",
+        "ExpressJs",
+        "React Icons",
+        "React Router"
       ]
     }
   ]
