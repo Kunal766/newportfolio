@@ -3,10 +3,10 @@
     "description_header": "Hey",
     "description": "Hey there! 👋 I'm Kunal Nayak, a dynamic full-stack developer with a passion for crafting stunning web experiences. With my expertise in React, Node.js, Express, PHP, Next.js, and AWS, coupled with a knack for integrating third-party APIs like Stripe, I bring ideas to life with finesse and functionality. 💻 Ready to elevate your web presence? Dive into my projects and let's turn your vision into reality! Reach out today for collaboration opportunities and let's build something extraordinary together! 🌟",
     "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+      "about": "मेरे बारे में",
+      "projects": "परियोजनाएँ",
+      "skills": "कौशल",
+      "experience": "अनुभव"
     }
   },
   "projects": [
