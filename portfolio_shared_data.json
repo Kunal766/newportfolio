@@ -9,16 +9,21 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Kunal766",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kunal-nayak-677a09224/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "upwork",
+        "url": "https://www.upwork.com/freelancers/~0157c3e481d553b542?mp_source=share",
+        "class": "fab fa-upwork"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "myProfile.jpeg"
   },
   "skills": {
     "icons": [
