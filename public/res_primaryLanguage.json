@@ -23,7 +23,7 @@
         "images/portfolio/E-commerce/image6.png",
         "images/portfolio/E-commerce/image7.png"
       ],
-      "url": "https://ecomerce.kunalnayal.xyz",
+      "url": "https://ecommerce.kunalnayak.xyz",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -41,13 +41,16 @@
     },
     {
       "title": "GYM",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "startDate": "2022",
+      "description": "Designed and implemented an intuitive user interface for easy exercise discovery and selection.Leveraged ReactJS components to ensure a responsive and user-friendly design.Successfully integrated RapidAPI’s resources, enabling real-time access to exercise data.Deployed Successfully on Netlify.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/Gym/image1.png",
+        "images/portfolio/Gym/image2.png",
+        "images/portfolio/Gym/image3.png",
+        "images/portfolio/Gym/image4.png",
+        "images/portfolio/Gym/image5.png"
       ],
-      "url": "https://github.com",
+      "url": "https://gym.kunalnayak.xyz",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -60,26 +63,50 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Decentralized Voting System",
+      "startDate": "2023",
+      "description": "decentralized application for voting system with React client. Implemented voting contract using Solidity and deployed the contract to Ethereum Testnet using Truffle framework Integrated React app for voting Interface. Implemented Digital Signature Using SHA256 algorithm to sign the message of voter.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/Voting/image1.png",
+        "images/portfolio/Voting/image2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://voting.kunalnayak.xyz",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-php-plain",
-          "name": "C#"
+          "class": "devicon-solidity-plain",
+          "name": "Solidity"
+        }
+      ]
+    },
+    {
+      "title": "Classifymeister",
+      "startDate": "2023",
+      "description": "Implemented Logistic regression model to Classify the sentiment of a sentence Used Sentiment140 dataset with 1.6 million tweets for Training Data Integrated React Clint site for user interaction. Used FastApi to create API for the trained modal. Deployed Successfully on Github Pages and Hosted the API of modal on Render Cloud Services",
+      "images": [
+        "images/portfolio/Sentiment/image1.png",
+        "images/portfolio/Sentiment/image2.png"
+      ],
+      "url": "https://kunalnayak.xyz/SentimentFronted/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-fastapi-plain",
+          "name": "FastApi"
         }
       ]
     }
