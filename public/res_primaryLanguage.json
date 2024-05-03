@@ -23,7 +23,7 @@
         "images/portfolio/E-commerce/image6.png",
         "images/portfolio/E-commerce/image7.png"
       ],
-      "url": "",
+      "url": "https://ecomerce.kunalnayal.xyz",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -32,6 +32,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
         }
       ]
     },
