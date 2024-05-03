@@ -11,38 +11,46 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "title": "Full Stack MERN E-Commerce",
+      "startDate": "2023",
+      "description": "MERN स्टैक प्रौद्योगिकियों का उपयोग करके एक विशेषता-समृद्ध ई-कॉमर्स एप्लिकेशन विकसित किया। सुरक्षित ऑनलाइन लेन-देन के लिए स्ट्राइप भुगतान गेटवे को एकीकृत किया। स्वचालित सीआई/सीडी पाइपलाइन के लिए जेंकिंस को लागू किया, जिससे कोड डिप्लॉयमेंट को कुशल बनाया गया। स्ट्रीमलाइन डिप्लॉयमेंट के लिए डॉकर का उपयोग करके एप्लिकेशन को कंटेनराइज किया। स्केलेबल और विश्वसनीय होस्टिंग के लिए AWS EC2 का उपयोग किया।",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/E-commerce/image1.png",
+        "images/portfolio/E-commerce/image2.png",
+        "images/portfolio/E-commerce/image3.png",
+        "images/portfolio/E-commerce/image4.png",
+        "images/portfolio/E-commerce/image5.png",
+        "images/portfolio/E-commerce/image6.png",
+        "images/portfolio/E-commerce/image7.png"
       ],
-      "url": "",
+      "url": "https://ecommerce.kunalnayak.xyz",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+      "title": "GYM",
+      "startDate": "2022",
+      "description": "सरल व्यायाम खोज और चयन के लिए एक सुसंगत उपयोगकर्ता इंटरफेस डिज़ाइन और लागू किया। प्रतिक्रियाशील और उपयोगकर्ता-मित्रपूर्ण डिज़ाइन सुनिश्चित करने के लिए ReactJS घटकों का उपयोग किया। रियल-टाइम व्यायाम डेटा तक पहुँच सक्षम करने के लिए सफलतापूर्वक RapidAPI के संसाधनों को एकीकृत किया। Netlify पर सफलतापूर्वक डिप्लॉय किया गया।",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/Gym/image1.png",
+        "images/portfolio/Gym/image2.png",
+        "images/portfolio/Gym/image3.png",
+        "images/portfolio/Gym/image4.png",
+        "images/portfolio/Gym/image5.png"
       ],
-      "url": "https://github.com",
+      "url": "https://gym.kunalnayak.xyz",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -55,61 +63,91 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "title": "Decentralized Voting System",
+      "startDate": "2023",
+      "description": "React क्लाइंट के साथ मतदान प्रणाली के लिए एक डिसेंट्रलाइज़ एप्लिकेशन डिज़ाइन किया। Solidity का उपयोग करके मतदान अनुबंध को कार्यान्वित किया और ट्रफल फ्रेमवर्क का उपयोग करके ईथेरियम टेस्टनेट पर अनुबंध को डिप्लॉय किया। मतदान इंटरफेस के लिए React ऐप को एकीकृत किया। मतदाता के संदेश को साइन करने के लिए SHA256 एल्गोरिथम का उपयोग करके डिजिटल हस्ताक्षर कार्यान्वित किया गया।",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/Voting/image1.png",
+        "images/portfolio/Voting/image2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://voting.kunalnayak.xyz",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-php-plain",
-          "name": "C#"
+          "class": "devicon-solidity-plain",
+          "name": "Solidity"
+        }
+      ]
+    },
+    {
+      "title": "Classifymeister",
+      "startDate": "2023",
+      "description": "वाक्य की भावना को वर्गीकृत करने के लिए लॉजिस्टिक रिग्रेशन मॉडल कार्यान्वित किया। प्रयोग के लिए Sentiment140 डेटासेट का उपयोग किया गया, जिसमें 1.6 मिलियन ट्वीट्स शामिल हैं। उपयोगकर्ता इंटरेक्शन के लिए React क्लाइंट साइट को एकीकृत किया गया। शिक्षित मॉडल के लिए API बनाने के लिए FastApi का उपयोग किया गया। सफलतापूर्वक Github पेजेस पर डिप्लॉय किया गया और मॉडल का API Render Cloud सेवाओं पर होस्ट किया गया।",
+      "images": [
+        "images/portfolio/Sentiment/image1.png",
+        "images/portfolio/Sentiment/image2.png"
+      ],
+      "url": "https://kunalnayak.xyz/SentimentFronted/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-fastapi-plain",
+          "name": "FastApi"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
+      "company": "Anany Pahal Foundation",
+      "title": "Web Developer Internship",
+      "years": "May’23 - Jul’23 ",
       "mainTech": [
-        "Angular 8/9/10"
+        "React"
       ],
       "technologies": [
         "REST API",
         "RxJS",
         "JavaScript",
-        "Bootstrap",
+        "Stripe",
         "MDBootstrap",
-        "EF Core",
-        "Angular Material"
+        "NodeJS",
+        "ExpressJs",
+        "React Icons",
+        "React Router"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
+      "company": "Algoleg",
+      "title": "FullStack Internship",
+      "years": "May’24 - Present ",
       "mainTech": [
-        "Angular 7/8"
+        "React"
       ],
       "technologies": [
         "REST API",
         "RxJS",
-        "Swagger",
         "JavaScript",
-        "DHTMLX Gantt"
+        "Stripe",
+        "MDBootstrap",
+        "NodeJS",
+        "ExpressJs",
+        "React Icons",
+        "React Router"
       ]
     }
   ]
