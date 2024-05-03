@@ -18,6 +18,11 @@
         "class": "fab fa-linkedin"
       },
       {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kunal-nayak-677a09224/",
+        "class": "fab fa-linkedin"
+      },
+      {
         "name": "upwork",
         "url": "https://www.upwork.com/freelancers/~0157c3e481d553b542?mp_source=share",
         "class": "fab fa-upwork"
