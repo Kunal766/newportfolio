@@ -45,6 +45,7 @@ class Header extends Component {
           color: "white",
           padding: "5px 15px",
           "border-radius": "2em",
+          "font-size": "2em",
         }}>Download Resume</a>
 
         <a href="mailto:kunalmayak20@iitk.ac.in" style={{
@@ -56,6 +57,7 @@ class Header extends Component {
           color: "white",
           padding: "5px 15px",
           "border-radius": "2em",
+          "font-size": "2em",
         }}>Contact Me</a>
 
         <div className="row aligner" style={{ height: '100%' }}>
